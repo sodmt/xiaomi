@@ -1,4 +1,7 @@
-@import url('base(1).css');
+input{
+	outline: none;
+	border: 0;
+}
 *{
 	margin: 0 auto;
 }
